@@ -1,0 +1,19 @@
+{
+  "name": "hadith-kisa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "اپلیکیشن حدیث کسا - نسخه چندسکویی Android و iOS",
+  "scripts": {
+    "cap:sync": "cap sync",
+    "android:open": "cap open android",
+    "ios:open": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.6.2",
+    "@capacitor/core": "8.6.2",
+    "@capacitor/ios": "8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.6.2"
+  }
+}

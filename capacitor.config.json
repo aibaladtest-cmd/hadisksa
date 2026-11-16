@@ -1,0 +1,7 @@
+{
+  "appId": "com.abrar.hadithkisa",
+  "appName": "حدیث کسا",
+  "webDir": "www",
+  "backgroundColor": "#0a2e2b",
+  "ios": { "contentInset": "never" }
+}
