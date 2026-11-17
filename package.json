@@ -2,5 +2,10 @@
   "name": "hadith-kisa",
   "version": "1.0.0",
   "private": true,
-  "description": "اپ حدیث کسا - گروه برنامه‌نویسی ابرار"
+  "description": "اپ حدیث کسا - گروه برنامه‌نویسی ابرار",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  }
 }
